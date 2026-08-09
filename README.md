@@ -1,4 +1,4 @@
-[![Open in Wokwi](https://wokwi.com)](https://wokwi.com)
+https://wokwi.com/projects/471868069744432129
 # 🕶️ Smart Obstacle Detection Goggles (ESP32)
 
 An IoT-based wearable device built to assist visually impaired individuals by scanning for incoming physical obstacles using ultrasonic acoustic tracking logic.
