@@ -1,3 +1,4 @@
+[![Open in Wokwi](https://wokwi.com)](https://wokwi.com)
 # 🕶️ Smart Obstacle Detection Goggles (ESP32)
 
 An IoT-based wearable device built to assist visually impaired individuals by scanning for incoming physical obstacles using ultrasonic acoustic tracking logic.
@@ -16,4 +17,4 @@ An IoT-based wearable device built to assist visually impaired individuals by sc
 * **Safe Zone (> 100 cm):** Safe pathway. Buzzer remains completely silent.
 * **Caution Zone (30 cm - 100 cm):** Moderate obstacle ahead. Slower pacing audio beep pulse.
 * **Danger Zone (< 30 cm):** Immediate physical barrier detected. High-frequency continuous alert tones.
-*
+
